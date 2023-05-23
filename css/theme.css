@@ -80,6 +80,9 @@
   :root {
     scroll-behavior: smooth; } }
 
+html {
+      font-family: "Fraunces", serif}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
